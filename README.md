@@ -1,6 +1,8 @@
 # L1norm
 code and results for &lt;&lt;Pruning Filters For Efficient ConvNets>>
 
+Network:
+vgg16 rc56(resnet 56)
 GPU:
 batch: 1 32 64 128
 pruning ratio: 0.2 0.4 0.6 0.8
