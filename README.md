@@ -1,6 +1,8 @@
 # L1norm
 code and results for &lt;&lt;Pruning Filters For Efficient ConvNets>>
 
+Metric: Weight value
+
 Network:
 
 vgg16 rc56(resnet 56)
