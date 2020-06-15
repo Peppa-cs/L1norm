@@ -1,6 +1,8 @@
 # L1norm
 code and results for &lt;&lt;Pruning Filters For Efficient ConvNets>>
 
+Third party: https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning
+
 Metric: Weight value
 
 Network:
